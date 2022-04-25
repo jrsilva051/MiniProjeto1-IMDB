@@ -1,5 +1,5 @@
   ## MiniProjeto1-IMDB
-  # Análise exploratória de avaliações de filmes no dataset da IMDB.
+  ### Análise exploratória de avaliações de filmes no dataset da IMDB.
  O projeto foi desenvolvido de forma didática durante as aulas do curso de Python Fundamentos Para Análise de Dados, na Data Science Academy, onde foram respondidas algumas perguntas com gráficos e tabelas com finalidades de trazer insights ao tomador de decisão.
  Além de responder as perguntas abaixo, o algoritmo utiliza algumas bibliotecas para realizar o download dos arquivos tar.gz e posteriormente cria o banco de dados utilizando SQLite.
  
